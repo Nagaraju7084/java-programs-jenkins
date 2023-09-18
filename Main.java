@@ -13,7 +13,6 @@ public class Main{
         for(int i=0; i<=n; i++){
             int fibNumber = findFib(i);
             System.out.println("fibNumber : " + fibNumber);
-            
         }
     }
 
